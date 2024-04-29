@@ -1,2 +1,3 @@
-# 3d_portfolio
-Portfolio site made using React/Vite TailwindCss and 3JS
+# 3d_Model
+
+3D modeling web app excercise using 3JS 
